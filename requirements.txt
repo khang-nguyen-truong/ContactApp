@@ -1,0 +1,10 @@
+The app should have a list of contacts
+
+The contacts include first name, last name, company, job title, phone numbers and email adresses
+The phone numbers and email adresses each should have labels to indicate home, mobile, work, etc., and the actual numbers/adresses.
+
+The user can search the contacts.
+The user can add new contacts.
+The user can update existing contacts.
+The user can delete old contacts.
+The user can merge duplicate contacts.
